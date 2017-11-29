@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+to run the project 
+Rails s 
+the defalut url 
+localhost:3000/
 
-Things you may want to cover:
+Tahis is the whole endpoint . 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- /api/heros - (retrun the whole heros )
+- /api/heros/{hero_id} - hero data
+- /api/heros/{hero_id}/abilities - this api and the /abilites request the same index but will change the responce based on hero_id if it send or not 
+- /api/abilities/ - ability list
+- /api/abilities/{ability_id}
