@@ -1,9 +1,12 @@
 # README
 
-to run the project 
-Rails s 
-the defalut url 
-localhost:3000/
+(to run the project )
+ 
+ -rails server
+
+(the defalut url )
+
+-localhost:3000/
 
 Tahis is the whole endpoint . 
 
